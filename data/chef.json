@@ -2,35 +2,38 @@
   {
     "id": "01",
     "chef_": {
-      "chef_photo": "https://i.ibb.co/B3R9s43/image-3.png",
-      "chef_name": "Chef Emily Kim",
+      "chef_photo": "https://i.ibb.co/5Yc5FSp/03-MAANJP1-article-Large.png",
+      "chef_name": "DaDong Dong ",
       "experience": "5 Years",
-      "bio": " Chef Emily Kim is a culinary artist with a passion for creating beautiful and delicious desserts. She is known for her innovative flavor combinations and stunning presentation. Her desserts are a feast for the eyes and the palate.",
+      "bio": " Chef DaDong Dong is a culinary artist with a passion for creating beautiful and delicious desserts. She is known for her innovative flavor combinations and stunning presentation. Her desserts are a feast for the eyes and the palate.",
       "numbers_of_recipes": "140",
       "likes": "142",
       "recipes": [
         {
-          "image": "https://ibb.co/3zyCt36",
+          "image": "https://i.ibb.co/fvxSYyM/GNOCCI-4.png",
           "name": "Chorizo & mozzarella gnocchi bake",
           "description": "Upgrade cheesy tomato pasta with gnocchi, chorizo and mozzarella for a comforting bake that makes an excellent midweek meal",
           "review": "120",
           "ingredients": "500g potato gnocchi , 150g chorizo sausage, sliced , 1 onion, diced,2 garlic cloves, minced",
+          "cooking_method":"Preheat the oven to 200°C / 180°C fan / gas mark 6,Cook the gnocchi in boiling salted water for 2-3 minutes, or until they float to the surface. Drain and set aside.",
           "rating": "4.6"
         },
         {
-          "image": "https://ibb.co/T4tbcmM",
+          "image": "https://i.ibb.co/4Pnbr2w/Hummus-1200-A.png",
           "name": "Hummus without tahini",
           "description": "Enjoy our easy, budget-friendly hummus recipe with your favourite sides, such as pittas, crackers and crudités. Add more liquid from the can of chickpeas for a smoother hummus, if you like.",
           "review": "80",
           "ingredients": "1 can (400g) chickpeas, drained and rinsed, 1/4 cup extra-virgin olive oil,2 garlic cloves, minced",
+          "cooking_method":"In a food processor or blender, add the chickpeas, garlic, lemon juice, olive oil, cumin, salt, and black pepper.Pulse the ingredients together until they form a coarse paste,While the food processor or blender is running, slowly drizzle in water as needed to thin out the mixture to the desired consistency",
           "rating": "4.6"
         },
         {
-          "image": "https://ibb.co/R9vFgjz",
+          "image": "https://i.ibb.co/Yh2Bwb4/honey-tart-72736c9.png",
           "name": "Almond & orange Pesach mandelbrot",
           "description": "Celebrate Passover with an Eastern European Jewish recipe, similar to Italian biscotti. This version comes flavoured with orange zest, dark chocolate and almonds",
           "review": "95",
           "ingredients": "1/2 cup vegetable oil, 3/4 cup granulated sugar, 3 large eggs, 2 cups matzo cake meal,Zest of 1 orange,Zest of 1 orange",
+          "cooking_method":"Preheat the oven to 350°F / 180°C.In a large mixing bowl, whisk together the almond flour, potato starch, baking powder, and salt.",
           "rating": "4.6"
         }
       ]
@@ -39,35 +42,38 @@
   {
     "id": "02",
     "chef_": {
-      "chef_photo": "https://i.ibb.co/B3R9s43/image-3.png",
-      "chef_name": "Chef Carlos Gomez",
+      "chef_photo": "https://i.ibb.co/MnH2PYX/1594255650536.png",
+      "chef_name": "Ken Hom",
       "experience": "3 Years",
-      "bio": "Chef Carlos Gomez is a master of South American cuisine. He has traveled extensively throughout the continent, learning about the diverse cultures and flavors of the region. His dishes are always vibrant, packed with flavor, and highlight the unique ingredients of South America.",
+      "bio": "Chef Ken Hom traveled extensively throughout the continent, learning about the diverse cultures and flavors of the region. His dishes are always vibrant, packed with flavor, and highlight the unique ingredients of South America.",
       "numbers_of_recipes": "140",
       "likes": "202",
       "recipes": [
         {
-          "image": "https://ibb.co/xH5VwZ4",
+          "image": "https://i.ibb.co/4TbNRgm/crispy-chilli-turkey-noodles-9b735d1.png",
           "name": "Sumac turkey-stuffed pittas",
           "description": "Pair subtly spiced sumac turkey meatballs with sweet-and-sour slaw for a vibrant dinner. This recipe takes just 25 minutes to make and is budget-friendly, too",
           "review": "56",
           "ingredients": "500g ground turkey , 1 tablespoon sumac , 1 tablespoon ground cumin, 1 tablespoon smoked paprika ,2 garlic cloves, minced ",
+          "cooking_method":"reheat the oven to 200°C / 180°C fan / gas mark 6. Heat the olive oil in a pan over medium heat. Add the onion and garlic and cook until softened.Add the ground turkey, sumac, cumin, paprika, salt, and black pepper to the pan. Cook for 10-15 minutes, or until the turkey is browned and cooked through.",
           "rating": "4.6"
         },
         {
-          "image": "https://ibb.co/s3syCry",
+          "image": "https://i.ibb.co/Xyv8DMD/Chicken-Casserole-square-FS-15-1.png",
           "name": "Easy chicken casserole",
           "description": "This flavoursome, low-fat chicken casserole is easy to make and freezes really well, so why not make double and freeze for speedy midweek meals?",
           "review": "166",
           "ingredients": "1/2 cup chicken broth, 1/2 cup sour cream ,1/2 cup chopped onion, 1/2 cup chopped celery, 1/2 cup chopped carrots",
+          "cooking_method":"Preheat the oven to 375°F / 190°C.Heat the olive oil in a large oven-safe casserole dish over medium-high heat. Add the chicken breasts and cook until browned on both sides, about 5-7 minutes.Remove the chicken from the pan and set aside.",
           "rating": "4.6"
         },
         {
-          "image": "https://ibb.co/xDpMhCY",
+          "image": "https://i.ibb.co/vQCJNDV/Vegetarian-chilli-206c469.png",
           "name": "Veggie chilli",
           "description": "The easiest chilli you'll ever make, with ready-to-eat grains, kidney beans in chilli sauce and summer veggies - it's 4 of your 5-a-day too!",
           "review": "25",
           "ingredients": "2 tablespoons olive oil , 1 onion, diced , 2 bell peppers, diced ,2 garlic cloves, minced ",
+          "cooking_method":"Heat the olive oil in a large pot or Dutch oven over medium-high heat.Add the onion and garlic and cook until softened, about 2-3 minutes.Add the red and green bell peppers, carrots, and zucchini. Cook until the vegetables are tender, about 5-7 minutes.",
           "rating": "4.6"
         }
         
@@ -78,10 +84,10 @@
   {
     "id": "03",
     "chef_": {
-      "chef_photo": "https://i.ibb.co/B3R9s43/image-3.png",
-      "chef_name": "Chef Ayesha Patel",
+      "chef_photo": "https://i.ibb.co/cN0V5dj/MPWS-22-Ayesha-Nurdjaja-Headshot.png",
+      "chef_name": "Martin Yan",
       "experience": "5 Years",
-      "bio": " Chef Ayesha Patel is a rising star in the culinary world. She is known for her innovative approach to Indian cuisine, blending traditional flavors with modern techniques. Her dishes are bold, flavorful, and always leave a lasting impression",
+      "bio": " Chef Martin Yan is a rising star in the culinary world. She is known for her innovative approach to Indian cuisine, blending traditional flavors with modern techniques. Her dishes are bold, flavorful, and always leave a lasting impression",
       "numbers_of_recipes": "100",
       "likes": "120",
       "recipes": [
@@ -91,6 +97,7 @@
           "description": "Make one of our easy vegetarian recipes for a filling dinner the whole family will love. Try a vegetarian bolognese, colourful fajitas or hearty stew.",
           "review": "96",
           "ingredients": "1 tablespoon olive oil, 1 onion, diced, 2 garlic cloves, minced,1 red bell pepper, diced",
+          "cooking_method":"Heat the olive oil in a large pot or Dutch oven over medium-high heat.Add the onion and garlic and cook until softened, about 2-3 minutes.Add the red and green bell peppers, carrots, and zucchini. Cook until the vegetables are tender, about 5-7 minutes.",
           "rating": "4.6"
         },
         {
@@ -99,6 +106,7 @@
           "description": "Cook this tasty, budget-friendly vegan curry for an easy family dinner. With spinach and sweet potato, it boasts two of your five-a-day and it’s under 400 calories",
           "review": "850",
           "ingredients": "1 tablespoon vegetable oil, 1 onion, diced ,1 onion, diced,1 tablespoon grated fresh ginger,2 sweet potatoes, peeled and cubed",
+          "cooking_method":"Heat the vegetable oil in a large pot or Dutch oven over medium-high heat.Add the onion, garlic, and ginger. Cook until the onion is softened, about 2-3 minutes.Add the curry powder and cayenne pepper. Cook for another minute or two, until the spices are fragrant.",
           "rating": "4.6"
         },
         {
@@ -107,6 +115,7 @@
           "description": "Imagine all the best bits of arancini – a golden, crunchy exterior; cheesy, oozing rice – in risotto form and you have this moreish baked tomato, mozzarella and basil risotto. It's deliciously comforting",
           "review": "230",
           "ingredients": "1 tablespoon olive oil,1 onion, diced , 2 garlic cloves, minced, 1 1/2 cups Arborio rice,4 cups vegetable or chicken broth",
+          "cooking_method":"Preheat the oven to 375°F (190°C).Heat the olive oil in a large oven-safe pot or Dutch oven over medium-high heat.Add the onion and garlic and cook until softened, about 2-3 minutes.",
           "rating": "4.6"
         }
       ]
@@ -117,10 +126,10 @@
   {
     "id": "04",
     "chef_": {
-      "chef_photo": "https://i.ibb.co/Gd2PRSz/image-4.png",
-      "chef_name": "Chef Alex Chan",
+      "chef_photo": "https://i.ibb.co/rctvNZw/chinese-chef-alex-the-ritz-carlton-li-yen-kuala-lumpur.png",
+      "chef_name": "Ching-He Huang",
       "experience": "12 Years",
-      "bio": "Chef Alex Chan is a culinary genius with a passion for fusing traditional Chinese cuisine with modern Western flavors. His dishes are known for their bold flavors and stunning presentation. He is committed to using only the freshest ingredients and has a reputation for creating unforgettable dining experiences",
+      "bio": "Chef Ching-He Huang is a culinary genius with a passion for fusing traditional Chinese cuisine with modern Western flavors. His dishes are known for their bold flavors and stunning presentation. He is committed to using only the freshest ingredients and has a reputation for creating unforgettable dining experiences",
       "numbers_of_recipes": "300",
       "likes": "142",
       "recipes": [
@@ -129,6 +138,7 @@
           "name": "Easy tomato pasta",
           "description": "Make this simple tomato and cheese pasta dish for a delicious, filling and budget-friendly supper. It is a great way to use up storecupboard ingredients",
           "review": "76",
+          "cooking_method":"Add the Arborio rice and stir to coat in the oil. Cook for 1-2 minutes, until the rice is slightly toasted.",
           "rating": "4.6"
         },
         {
@@ -136,6 +146,7 @@
           "name": "Easy lentil curry",
           "description": "Our fast, cheap and healthy vegetarian lentil curry, is comforting and full of flavour. It's also low in fat and freezable for speedy midweek meals.",
           "review": "101",
+          "cooking_method":"Heat the vegetable oil in a large pot or Dutch oven over medium-high heat,Add the onion, garlic, and ginger. Cook until the onion is softened, about 2-3 minutes.Add the curry powder, cumin, coriander, and cayenne pepper (if using). Cook for another minute or two, until the spices are fragrant.",
           "rating": "4.6"
         },
         {
@@ -143,6 +154,7 @@
           "name": "Kidney bean curry",
           "description": "A rescue recipe for when there's nothing in the fridge or when you fancy something cheap, this curry is delicious and filling. It's healthy and vegan-friendly, too.",
           "review": "233",
+          "cooking_method":"Heat oil in a pressure cooker or a heavy-bottomed pot over medium heat. Add cumin seeds and let them sizzle for a few seconds.Add chopped onions, garlic, and ginger. Saute until the onions turn translucent.Add the coriander powder, turmeric powder, garam masala powder, and red chili powder. Mix well and cook for 30 seconds.",
           "rating": "4.6"
         }
       ]
@@ -152,10 +164,10 @@
   {
     "id": "05",
     "chef_": {
-      "chef_photo": " https://i.ibb.co/PNpcCZp/image-5.png",
-      "chef_name": "Chef Maria Hernandez",
+      "chef_photo": "https://i.ibb.co/8XtcqhS/julio-hernandez-maiz-de-la-vida-16-1.png",
+      "chef_name": "Ming Tsai",
       "experience": "5 Years",
-      "bio": " Chef Maria Hernandez is a master of Mexican cuisine. Her dishes are rooted in tradition but always have a modern twist. She believes that food is the heart and soul of every culture and is committed to sharing her love of Mexican food with the world",
+      "bio": " Chef Ming Tsai dishes are rooted in tradition but always have a modern twist. She believes that food is the heart and soul of every culture and is committed to sharing her love of Mexican food with the world",
       "numbers_of_recipes": "250",
       "likes": "142",
       "recipes": [
@@ -165,7 +177,9 @@
           "description": "Meat-free recipes for entertaining and more. Vegetables are the centre of these flavour-packed dishes, from vegetarian chilli and pies to salads and stews",
           "review": "110",
           "ingredients": "4 eggs , 1/4 cup milk , 1 tablespoon butter , 1/2 onion, diced, 1 bell pepper, diced"
-          ,"rating": "4.6"
+          ,
+          "cooking_method":"Heat oil in a pan over medium heat. Add onion, bell pepper, and garlic. Cook until the vegetables are tender.Add crumbled tofu, turmeric powder, salt, and pepper. Mix well and cook for 5-7 minutes or until the tofu is heated through.Garnish with chopped cilantro and serve hot.",
+          "rating": "4.6"
         },
         {
           "image": "https://i.ibb.co/KVNCzLb/satay-sweet-potato-curry-17cc62d.webp",
@@ -173,6 +187,7 @@
           "description": "Make one of our easy vegetarian recipes for a filling dinner the whole family will love. Try a vegetarian bolognese, colourful fajitas or hearty stew.",
           "review": "53",
           "ingredients": "1 tablespoon vegetable oil , 1 onion, sliced , 1 bell pepper, sliced , 2 cups mixed vegetables (e.g. broccoli, carrots, snow peas) , 1 tablespoon soy sauce",
+          "cooking_method":"In a bowl, mix together the diced tomatoes, chopped basil, olive oil, minced garlic, salt, and pepper. Let it sit for a few minutes to allow the flavors to meld together,Toast the sliced baguette in the oven or on a pan until crispy.Top the toasted bread with the tomato mixture. Optional: drizzle balsamic vinegar and sprinkle grated Parmesan cheese on top,Serve immediately",
           "rating": "4.6"
         },
         {
@@ -181,6 +196,7 @@
           "description": "From creamy cacio e pepe and lentil bolognese to veggie lasagne, our plant-based pasta dishes are sure to satisfy vegetarians and meat-eaters alike.",
           "review": "85",
           "ingredients": "8 oz. pasta , 2 tbsp. olive oil, 2 cloves garlic, minced ,1 can diced tomatoes (14.5 oz.) , 1/4 tsp. red pepper flakes  ",
+          "cooking_method":"Cook the penne pasta according to package instructions. Drain and set aside.In a saucepan, melt the butter over medium heat. Add the minced garlic and cook until fragrant.Whisk in the flour until it forms a paste.Gradually add the milk, whisking constantly to prevent lumps from forming.Add the diced tomatoes and spinach. Cook until the spinach wilts.",
           "rating": "4.6"
         }
       ]
@@ -190,10 +206,10 @@
   {
     "id": "06",
     "chef_": {
-      "chef_photo": " https://i.ibb.co/s1CXQHv/image-6.png",
-      "chef_name": "Chef Pierre Dupont",
+      "chef_photo": " https://i.ibb.co/ctnhwTq/dupont-avec-un-the-jean-pierre-etienvre.png",
+      "chef_name": "Susur Lee",
       "experience": "7.5 Years",
-      "bio": "Chef Pierre Dupont is a French-born chef with a passion for classic French cuisine. He is a master of sauces and believes that every dish should be created with care and attention to detail. His dishes are simple yet elegant and always use the best ingredients.",
+      "bio": "Chef Susur Lee dishes are simple yet elegant and always use the best ingredients.",
       "numbers_of_recipes": "140",
       "likes": "259",
       "recipes": [
@@ -203,6 +219,7 @@
           "description": "A healthy Cajun-inspired rice pot recipe that's bursting with spicy Spanish sausage, sweet peppers and tomatoes",
           "review": "256",
           "ingredients": "2 tbsp. vegetable oil,1 onion, chopped , 1 red bell pepper, chopped,2 cloves garlic, minced,1 tsp. smoked paprika,1/2 tsp. dried thyme",
+          "cooking_method":"In a large pot or Dutch oven, cook the chicken and chorizo over medium heat until browned. Remove with a slotted spoon and set aside.In the same pot, sauté the onion, green bell pepper, celery, and garlic until softened.Add the uncooked rice to the pot and stir to coat with the vegetable mixture.",
           "rating": "4.6"
         },
         {
@@ -211,6 +228,7 @@
           "description": "Enjoy this gooey cheese and chicken pasta bake for the ultimate weekday family dinner. Serve straight from the dish with a dressed green salad",
           "review": "369",
           "ingredients": "1 lb. penne pasta, 2 tbsp. olive oil , 1 lb. boneless, skinless chicken breasts, cut into bite-sized pieces, 1 onion, chopped,2 cloves garlic, minced ,1 can diced tomatoes, drained (14.5 oz.)",
+          "cooking_method":"Preheat your oven to 375°F (190°C). Cook the pasta in salted boiling water for 1-2 minutes less than the recommended cooking time on the package. Drain and set aside. In a large skillet, heat the olive oil over medium-high heat. Add the minced garlic and cook for about 30 seconds or until fragrant.",
           "rating": "4.6"
         },
         {
@@ -219,6 +237,7 @@
           "description": "Welcome warmer spring and summer days with our masala spatchcock chicken cooked on the barbecue. It's ideal for an alternative Sunday lunch",
           "review": "159",
           "ingredients": "1 whole chicken, about 3-4 lbs , 2 tbsp. ghee or butter, melted, 1 tbsp. lemon juice,1 tbsp. ginger paste,1 tbsp. garlic paste,1 tbsp. ground cumin",
+          "cooking_method":"Preheat your oven to 400°F (200°C).Spatchcock the chicken by removing the backbone and pressing the chicken flat.In a small bowl, whisk together the vegetable oil, garam masala, cumin, coriander, smoked paprika, turmeric, cayenne pepper (if using), salt, and black pepper.Rub the spice mixture all over the chicken, making sure to get it into all the nooks and crannies.",
           "rating": "4.6"
         } 
         
